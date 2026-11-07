@@ -34,7 +34,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-tables",
+  "mcpName": "io.github.itsryanarmani/agentic-tables",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {

@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/agentic-tables",
+  "name": "io.github.itsryanarmani/agentic-tables",
   "description": "Typed tables that agents read and write as rows.",
   "version": "0.14.1",
   "repository": {
